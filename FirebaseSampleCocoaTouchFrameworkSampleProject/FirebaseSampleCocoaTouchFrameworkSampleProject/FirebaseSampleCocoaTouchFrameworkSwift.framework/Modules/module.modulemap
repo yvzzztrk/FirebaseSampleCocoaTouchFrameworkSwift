@@ -1,0 +1,11 @@
+framework module FirebaseSampleCocoaTouchFrameworkSwift {
+  umbrella header "FirebaseSampleCocoaTouchFrameworkSwift.h"
+
+  export *
+  module * { export * }
+}
+
+module FirebaseSampleCocoaTouchFrameworkSwift.Swift {
+    header "FirebaseSampleCocoaTouchFrameworkSwift-Swift.h"
+    requires objc
+}

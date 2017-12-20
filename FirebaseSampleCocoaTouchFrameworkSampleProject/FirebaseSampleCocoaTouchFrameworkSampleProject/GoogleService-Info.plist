@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>369062455181-so3pilbhpltt71rku5aij145i85566ej.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.369062455181-so3pilbhpltt71rku5aij145i85566ej</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-ZngkYk6A1bluol72qZxhBRtJNKVy4OM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>369062455181</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yavuz.FirebaseSampleCocoaTouchFrameworkSampleProject</string>
+	<key>PROJECT_ID</key>
+	<string>fir-cocoatouchsample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-cocoatouchsample.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:369062455181:ios:fe6d5bd5358a8ba3</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-cocoatouchsample.firebaseio.com</string>
+</dict>
+</plist>
